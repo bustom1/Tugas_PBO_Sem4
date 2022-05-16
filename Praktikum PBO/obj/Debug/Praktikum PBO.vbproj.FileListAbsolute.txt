@@ -1,0 +1,14 @@
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\bin\Debug\Praktikum PBO.exe.config
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\bin\Debug\Praktikum PBO.exe
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\bin\Debug\Praktikum PBO.pdb
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\bin\Debug\Praktikum PBO.xml
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PBO.home.resources
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PBO.Resources.resources
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum PBO.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum PBO.exe
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum PBO.xml
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum PBO.pdb
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PBO.Praktikum1.resources
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PBO.Praktikum2.resources
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PBO.tbTunjanganTetap.resources
+D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PBO.TugasHariRaya1.resources
