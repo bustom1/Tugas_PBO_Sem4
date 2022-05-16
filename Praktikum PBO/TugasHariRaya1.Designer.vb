@@ -32,6 +32,7 @@ Partial Class TugasHariRaya1
         Me.tbNim = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
+        Me.btnKeluar = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'btnInputNim
@@ -136,7 +137,7 @@ Partial Class TugasHariRaya1
         Me.Button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Green
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.Font = New System.Drawing.Font("Adobe Gothic Std B", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(128, Byte))
-        Me.Button1.Location = New System.Drawing.Point(98, 238)
+        Me.Button1.Location = New System.Drawing.Point(98, 225)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(134, 37)
         Me.Button1.TabIndex = 3
@@ -153,18 +154,33 @@ Partial Class TugasHariRaya1
         Me.Button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Teal
         Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button2.Font = New System.Drawing.Font("Adobe Gothic Std B", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(342, 238)
+        Me.Button2.Location = New System.Drawing.Point(342, 225)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(117, 37)
         Me.Button2.TabIndex = 3
         Me.Button2.Text = "Kelas Induk"
         Me.Button2.UseVisualStyleBackColor = False
         '
+        'btnKeluar
+        '
+        Me.btnKeluar.BackColor = System.Drawing.Color.Brown
+        Me.btnKeluar.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btnKeluar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Maroon
+        Me.btnKeluar.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnKeluar.Font = New System.Drawing.Font("Monospac821 BT", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnKeluar.Location = New System.Drawing.Point(227, 317)
+        Me.btnKeluar.Name = "btnKeluar"
+        Me.btnKeluar.Size = New System.Drawing.Size(112, 39)
+        Me.btnKeluar.TabIndex = 4
+        Me.btnKeluar.Text = "Keluar"
+        Me.btnKeluar.UseVisualStyleBackColor = False
+        '
         'TugasHariRaya1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(620, 415)
+        Me.Controls.Add(Me.btnKeluar)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.tbNim)
@@ -175,6 +191,7 @@ Partial Class TugasHariRaya1
         Me.Controls.Add(Me.btnInputNama)
         Me.Controls.Add(Me.btnAmbilNim)
         Me.Controls.Add(Me.btnInputNim)
+        Me.Cursor = System.Windows.Forms.Cursors.Default
         Me.Name = "TugasHariRaya1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Tugas Hari Raya"
@@ -192,4 +209,5 @@ Partial Class TugasHariRaya1
     Friend WithEvents tbNim As System.Windows.Forms.TextBox
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Button2 As System.Windows.Forms.Button
+    Friend WithEvents btnKeluar As System.Windows.Forms.Button
 End Class

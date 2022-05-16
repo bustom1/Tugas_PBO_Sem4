@@ -17,7 +17,7 @@
             Return mNim
         End Get
         Set(value As Integer)
-            mNama = value
+            mNim = value
         End Set
     End Property
 

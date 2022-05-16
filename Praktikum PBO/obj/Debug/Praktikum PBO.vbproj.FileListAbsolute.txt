@@ -12,3 +12,7 @@ D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PB
 D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PBO.Praktikum2.resources
 D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PBO.tbTunjanganTetap.resources
 D:\Data Visual Studio\Bustomi\Praktikum PBO\Praktikum PBO\obj\Debug\Praktikum_PBO.TugasHariRaya1.resources
+D:\Documents\PBO\Tugas_PBO_Sem4\Praktikum PBO\bin\Debug\Praktikum PBO.exe.config
+D:\Documents\PBO\Tugas_PBO_Sem4\Praktikum PBO\obj\Debug\Praktikum PBO.exe
+D:\Documents\PBO\Tugas_PBO_Sem4\Praktikum PBO\obj\Debug\Praktikum PBO.xml
+D:\Documents\PBO\Tugas_PBO_Sem4\Praktikum PBO\obj\Debug\Praktikum PBO.pdb
